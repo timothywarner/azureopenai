@@ -1,2 +1,1 @@
-# azureopenai
-Accelerating Innovation with Azure OpenAI
+# Accelerating Innovation with Azure OpenAI
